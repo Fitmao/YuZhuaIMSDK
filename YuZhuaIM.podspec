@@ -116,8 +116,8 @@ Pod::Spec.new do |spec|
   #
 
   # spec.framework  = "YuZhuaIM"
-  # spec.vendored_frameworks = "YuZhuaIMSDK.framework"
-  spec.vendored_frameworks = "*"  
+  spec.vendored_frameworks = "YuZhuaIMSDK.framework"
+  # spec.vendored_frameworks = "*"  
 # spec.frameworks = "SomeFramework", "AnotherFramework"
 
   # spec.library   = "iconv"
