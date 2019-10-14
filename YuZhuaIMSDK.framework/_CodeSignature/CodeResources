@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/YuZhuaIM-Swift.h</key>
 		<data>
-		1uOlwhWcclZqG3+9oPRrp8kJq7M=
+		APnIzXYczC62vTlXD+7sgFt3MLQ=
 		</data>
 		<key>Headers/YuZhuaIM.h</key>
 		<data>
@@ -42,39 +42,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LU+XKdVAuiwPob+rcoVex/oF770=
+		eNmi0O5jh/xqATIcyhG5BFx8qtE=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm.swiftdoc</key>
 		<data>
-		VsnYVwJLobebhxGrEeJsuIu5bDg=
+		De0ypwFUS0GhTQEFni3vlp9aaEE=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm.swiftmodule</key>
 		<data>
-		QfyFccELh27L4RMzasSJiP0hk4I=
+		T42Wl4xeFwNwLgNPCE06Gw3gapc=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/i386.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		VsnYVwJLobebhxGrEeJsuIu5bDg=
+		07JXid1falmpcwGbsyN7BAd9bg4=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/i386.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QfyFccELh27L4RMzasSJiP0hk4I=
+		Z7IqfL1MFitwm0/TmgSaM6EK18A=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		xv4RBqwIKnd4Ux+7AwVNvQG/UPw=
+		07JXid1falmpcwGbsyN7BAd9bg4=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		eNqhRWH0knPPO9stjngjc7lcEsQ=
+		Z7IqfL1MFitwm0/TmgSaM6EK18A=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		xv4RBqwIKnd4Ux+7AwVNvQG/UPw=
+		De0ypwFUS0GhTQEFni3vlp9aaEE=
 		</data>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		eNqhRWH0knPPO9stjngjc7lcEsQ=
+		T42Wl4xeFwNwLgNPCE06Gw3gapc=
+		</data>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		De0ypwFUS0GhTQEFni3vlp9aaEE=
+		</data>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		T42Wl4xeFwNwLgNPCE06Gw3gapc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -164,11 +172,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1uOlwhWcclZqG3+9oPRrp8kJq7M=
+			APnIzXYczC62vTlXD+7sgFt3MLQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xw5VpHKpiI91zovlJWgv86f/CsBurLPDJCb4k2viGN4=
+			Wi88Y3aXXieoSI6E+g7yvSm2gArIv6C4bSVV/D34ENo=
 			</data>
 		</dict>
 		<key>Headers/YuZhuaIM.h</key>
@@ -182,92 +190,114 @@
 			mVo0wZjCYisxUhBCcEtquu+3m7OdtNKaGUdwrJu0Jrs=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VsnYVwJLobebhxGrEeJsuIu5bDg=
+			De0ypwFUS0GhTQEFni3vlp9aaEE=
 			</data>
 			<key>hash2</key>
 			<data>
-			AhQKTYK+CFywmlf5UQI8BMMLAppAR9CTzrV7YGtxmgI=
+			NDksy4m6GIgscg3uBz/zbQL/qQ7CpyUZU6bNz5pwFTc=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QfyFccELh27L4RMzasSJiP0hk4I=
+			T42Wl4xeFwNwLgNPCE06Gw3gapc=
 			</data>
 			<key>hash2</key>
 			<data>
-			a0P9ZdZ9IyU7NQxJvtM20tBVO/P+g27J4N8dadmbL2E=
+			REaH042pDDn4BvnC8xIwSHGWbphY41zhO5i/HbM4EWg=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/i386.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VsnYVwJLobebhxGrEeJsuIu5bDg=
+			07JXid1falmpcwGbsyN7BAd9bg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			AhQKTYK+CFywmlf5UQI8BMMLAppAR9CTzrV7YGtxmgI=
+			GB6il9syF6yhdU6FqUg6aKkfWyzOTLwNmkSV8lo2Pqs=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/i386.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QfyFccELh27L4RMzasSJiP0hk4I=
+			Z7IqfL1MFitwm0/TmgSaM6EK18A=
 			</data>
 			<key>hash2</key>
 			<data>
-			a0P9ZdZ9IyU7NQxJvtM20tBVO/P+g27J4N8dadmbL2E=
+			eXoJ7gYDJCG6b9ujrWdk7pBdxDJ9Gf4NJL8HCC1RrhM=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xv4RBqwIKnd4Ux+7AwVNvQG/UPw=
+			07JXid1falmpcwGbsyN7BAd9bg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			kc2R/txUyzDnI4nn3pr+wfgkjk0MWYFtPu98POLZNq4=
+			GB6il9syF6yhdU6FqUg6aKkfWyzOTLwNmkSV8lo2Pqs=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eNqhRWH0knPPO9stjngjc7lcEsQ=
+			Z7IqfL1MFitwm0/TmgSaM6EK18A=
 			</data>
 			<key>hash2</key>
 			<data>
-			WsGm5IhLvMQi+oVMF6lb29LtUDJHdxeouU1CPRFtLbo=
+			eXoJ7gYDJCG6b9ujrWdk7pBdxDJ9Gf4NJL8HCC1RrhM=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xv4RBqwIKnd4Ux+7AwVNvQG/UPw=
+			De0ypwFUS0GhTQEFni3vlp9aaEE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kc2R/txUyzDnI4nn3pr+wfgkjk0MWYFtPu98POLZNq4=
+			NDksy4m6GIgscg3uBz/zbQL/qQ7CpyUZU6bNz5pwFTc=
 			</data>
 		</dict>
-		<key>Modules/YuZhuaIM.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eNqhRWH0knPPO9stjngjc7lcEsQ=
+			T42Wl4xeFwNwLgNPCE06Gw3gapc=
 			</data>
 			<key>hash2</key>
 			<data>
-			WsGm5IhLvMQi+oVMF6lb29LtUDJHdxeouU1CPRFtLbo=
+			REaH042pDDn4BvnC8xIwSHGWbphY41zhO5i/HbM4EWg=
+			</data>
+		</dict>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			De0ypwFUS0GhTQEFni3vlp9aaEE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NDksy4m6GIgscg3uBz/zbQL/qQ7CpyUZU6bNz5pwFTc=
+			</data>
+		</dict>
+		<key>Modules/YuZhuaIM.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T42Wl4xeFwNwLgNPCE06Gw3gapc=
+			</data>
+			<key>hash2</key>
+			<data>
+			REaH042pDDn4BvnC8xIwSHGWbphY41zhO5i/HbM4EWg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
