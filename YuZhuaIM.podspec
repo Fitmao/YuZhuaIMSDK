@@ -37,8 +37,8 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT"
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  # spec.license      = "MIT"
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source = { :http => "https://gitee.com/fitmao/YuZhuaIMSDK/raw/master/YuZhuaIMSDK.framework.zip" }
+  spec.source = { :git => "https://github.com/Fitmao/YuZhuaIMSDK.git", :tag => "#{spec.version}" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -88,7 +88,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "*"
+  spec.source_files  = "lib/YuZhuaIM.framework/Headers/*.{h}"
   # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
@@ -115,9 +115,9 @@ Pod::Spec.new do |spec|
   #
 
   # spec.framework  = "YuZhuaIM"
-  spec.vendored_frameworks = "YuZhuaIMSDK.framework"
+  spec.vendored_frameworks = "lib/YuZhuaIM.framework"
   # spec.vendored_frameworks = "*"  
-# spec.frameworks = "SomeFramework", "AnotherFramework"
+  spec.frameworks = "Foundation"
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
